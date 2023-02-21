@@ -1,0 +1,12 @@
+{
+  "name": "rich-text-compare",
+  "version": "1.0.0",
+  "author":"yuzhou",
+  "description":"", 
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "diff": "^5.1.0",
+    "vue-template-compiler": "^2.7.14"
+  }
+}
